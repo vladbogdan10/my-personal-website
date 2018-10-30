@@ -161,3 +161,25 @@ a {
   z-index: -1;
 }
 /* END MAIN CONTENT */
+
+
+@media (max-width: 1015px) {
+  .main-content__image {
+    margin-bottom: 50px;
+  }
+
+  .main-content__about {
+    flex-basis: 480px;
+    margin-top: 50px;
+  }
+}
+
+@media (max-width: 500px) {
+  .main-content {
+    height: 100%;
+  }
+
+  .main-content__about {
+    font-size: 0.9em;
+  }
+}
