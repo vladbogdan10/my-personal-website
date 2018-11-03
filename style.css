@@ -94,6 +94,11 @@ a {
   margin: 6px;
   transition: all 0.2s;
 }
+
+.top-bar__social-icons a:hover {
+  background-color: rgb(185, 230, 232);
+  color: white;
+}
 /* END TOP BAR */
 
 
