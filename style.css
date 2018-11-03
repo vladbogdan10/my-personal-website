@@ -129,7 +129,6 @@ a {
   margin-right: 6%;
   animation-name: slideup;
   animation-timing-function: ease-out;
-  z-index: -2;
 }
 
 .main-content__about h1 {
