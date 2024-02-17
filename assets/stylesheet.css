@@ -182,9 +182,10 @@ a {
 .main-content__about > div > span {
   color: rgb(66, 82, 105);
   background: rgba(106, 204, 214, 0.3);
-  padding: 2px 14px;
+  padding: 4px 14px 2px 14px;
   border-radius: 12px;
   white-space: nowrap;
+  line-height: 2;
 }
 
 @keyframes slideup {
